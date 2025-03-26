@@ -1,0 +1,22 @@
+## Dataset Description
+
+### OrderDetails Table  
+Contains information on individual orders, including:  
+- **OrderID** – Unique identifier for each order  
+- **OrderDate** – Date when the order was placed  
+- **PropertyID** – Identifier for the property where the order was made  
+- **ProductID** – Identifier for the purchased product  
+- **Quantity** – Number of units ordered  
+
+### Product Table  
+Stores details about the products being sold:  
+- **ProductID** – Unique identifier for each product  
+- **ProductName** – Name of the product  
+- **ProductCategory** – Category classification of the product  
+- **Price** – Price per unit of the product  
+
+### Property Table  
+Contains location-related details for sales:  
+- **PropertyID** – Unique identifier for each property  
+- **PropertyCity** – City where the property is located  
+- **PropertyState** – State where the property is situated  
