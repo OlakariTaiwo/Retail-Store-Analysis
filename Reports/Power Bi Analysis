@@ -1,0 +1,17 @@
+## Power BI Analysis  
+
+### Data Cleaning & Transformation  
+- Utilized **Power Query** to clean, structure, and preprocess the dataset for analysis.  
+
+### DAX Measures  
+- Created **Key Performance Indicators (KPIs)** to analyze:  
+  - Total Sales  
+  - Revenue Growth  
+  - Customer Segmentation Metrics  
+
+### Visualizations  
+- Developed **interactive reports** showcasing:  
+  - Sales trends over time  
+  - Product performance analysis  
+  - Regional sales distribution  
+  - Customer segmentation using **RFM analysis**  
